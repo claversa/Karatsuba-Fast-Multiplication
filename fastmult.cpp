@@ -1,10 +1,6 @@
 /*******************************************************************************
- * Name        : fastmult.cpp
  * Author      : Caroline LaVersa
- * Version     : 1.0
- * Date        :
  * Description : Implements fast multiplication Karatsuba method
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
  ******************************************************************************/
 #include <iostream>
 #include <algorithm>
